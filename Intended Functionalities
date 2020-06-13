@@ -1,0 +1,36 @@
+We have attempted to bring out maximum relevant information from the data available to us and summarized them into a set of functionalities that the database application soughts to provide. These functionalities are expressed in terms of the specific information that will be accessible/visible to a regular user:
+Rate of population growth is the natural increase combined with the effects that migration have on a country[3]. User can find the population growth rate specific to their country of choice. Also user can have a specific view of how the population growth rate has been affected along the years and gender.
+It refers to a population that is unchanging – it is neither growing, nor declining; the growth rate is zero. It also accounts for the country's immigration (when a person migrates to a country)  and emigration (when a person leaves their country to settle somewhere new). Therefore end user can find the zero population growth of a country as it is a critical component to long-term sustainability for a country, region, or the world.
+From crude birth rate and crude death rate user can calculate the natural increase which is the difference between the numbers of births and deaths in a population (CBR-CDR)%.
+User can estimate the sex ratio of different countries over a period of time.
+User can find the doubling time of a selected country which is the time it requires for a country to double its population. It takes into consideration the annual growth rate. Doubling time = 70/annual growth rate
+User can trace demographic shifts,  calculate a country’s crude birth rate which is the annual live births per 1,000 population.
+User can trace demographic shifts[4],  calculate a country’s crude death rate which is the annual deaths per 1,000 population.
+User can be informed about the ratio between  elderly : young people of a chosen country.
+The user can get information about countries in increasing/decreasing order of their population where infant mortality rate of females is greater as compared to infant mortality rate of males.
+User can compare the average fertility  of the selected country with the world's average fertility.
+The aim is to find population density which can be found by analysing population of the country in a year and dividing it by the total area of the country. Population density will indicate how many people are living per unit area in the country
+Average population density by world: We can find the average population density, when we have population density of each country and divide it with the number of countries.
+Also, the user will be able to list the top 10 countries having the highest population density and lowest population density .
+
+Growth or decline in Mortality by country: This is the probability of children  dying in the country[5]. It will enable the user to determine the change in mortality over time in years for different countries. It will help to determine which country needs more attention if the mortality rate is increasing and help establish what factors let to decline of mortality rate.
+Average mortality of the world : we can find average mortality of the world using mortality rate of each country and dividing it by the total number of countries  in the world.
+
+Age dependency ratio: It is defined as the number of dependents aged zero to 14 and over the age of 65, compared with the total population that lies between the age of 15 to 64. The user will be able to view the number of people in the non-working age, compared with the number of people falling in the category of working age for different countries and genders. The higher the age dependency ratio of a country, there is a need for better healthcare and medical resources.
+User can find countries highest/lowest age dependency ratio for top 10 countries
+User can find average age dependency ratio for the world
+
+Life Expectancy:  The user can get information whether the life expectancy of the world has increased or decreased over the years. Along with this information, the user can also get information whether life expectancy of female and male have increased or decreased over the average life expectancy of the world.
+User can get information regarding the top 10 countries whose life expectancy has increased/decreased for a given period of years.
+User can get information regarding the top 10 countries where life expectancy of females is more than the life expectancy of males.
+User can get information regarding the top 10 countries where life expectancy of males is more than the life expectancy of females.
+
+Mobility: User can get information regarding the percentage of people migrating from one country to another country when compared to total population has increased or decreased over a period of years.
+User can get information regarding top 10 countries where migration is more for a given period of years.
+User can get information regarding top 10 countries where migration is less for a given period of years.
+
+Child Bearing Years: It is defined as the female aged between 12 to 51[6]. The user will be able to view the  ratio of female who are in child bearing age to women who are not in child bearing age. 
+
+Number of children under age 5 per 1000 women in the age group between 15 and 49 for a given year. This gives a crude fertility measure. The user will be able to list the countries in increasing/decreasing order of child-woman ratio over a period of time.
+User will be able to find the top 5 countries where child-woman ratio is lesser than the average child-woman ratio.
+User will be able to find the top 5 countries with higher male-child woman ratio over female-child woman ratio over a period of time.
