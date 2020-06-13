@@ -8,5 +8,6 @@ Our database will consist of International Data categorized into five major elem
 
 
 # Software Requirements
-●  	CISE Oracle Database Server, SQLdeveloper for Storing and Querying the acquired data (Backend).
-●  	HTML, CSS , Bootstrap, Jquery for web designing the web application interface (Frontend).
+ 	
+  CISE Oracle Database Server, SQLdeveloper for Storing and Querying the acquired data (Backend).
+  HTML, CSS , Bootstrap, Jquery for web designing the web application interface (Frontend).
